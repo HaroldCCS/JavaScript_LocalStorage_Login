@@ -1,3 +1,6 @@
+if (localStorage.getItem("sesion") == null){
+    location.href = "index.html";
+}
 const botonCerrar = document.getElementById("botonCerrar");
 const saludoUsuario = document.getElementById("saludoUsuario");
 
