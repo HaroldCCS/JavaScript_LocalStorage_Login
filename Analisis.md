@@ -36,4 +36,4 @@ para validar”.
 
 2.3.3.	El sistema deberá permitir realizar registros de nuevos hobbies seleccionándolos y se mostraran instantáneamente en la pantalla
 
-2.3.4.	El sistema deberá permitir cerrar sesion al usuario.
+2.3.4.	El sistema deberá permitir cerrar sesion al usuario, el sistema elimina la variable del localStorage que indica el usuario que ha iniciado sesion.
