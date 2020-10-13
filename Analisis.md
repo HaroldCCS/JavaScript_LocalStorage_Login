@@ -35,3 +35,5 @@ para validar”.
 2.3.2.	 El sistema traerá SI EXISTEN los hobbies del localstorage si fueron previamente registrados y los imprimirá en la pantalla
 
 2.3.3.	El sistema deberá permitir realizar registros de nuevos hobbies seleccionándolos y se mostraran instantáneamente en la pantalla
+
+2.3.4.	El sistema deberá permitir cerrar sesion al usuario.
